@@ -1,0 +1,10 @@
+spring:
+  mail:
+    host: ${HOST:premium74.web-hosting.com}
+    port: ${PORT:587}
+    protocol: smtp
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enabled: true
