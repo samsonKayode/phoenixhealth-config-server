@@ -12,4 +12,4 @@ spring:
             enabled: true
 
 demo:
-  test-value: Added dependency
+  test-value: Added dependency data, stressful
