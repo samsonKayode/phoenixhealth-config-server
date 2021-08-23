@@ -10,3 +10,6 @@ spring:
         smtp:
           starttls:
             enabled: true
+
+demo:
+  test-value: this is a test value
