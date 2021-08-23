@@ -12,4 +12,4 @@ spring:
             enabled: true
 
 demo:
-  test-value: updated test value here
+  test-value: Added dependency to config server pom file
