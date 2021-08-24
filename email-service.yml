@@ -12,4 +12,4 @@ spring:
             enabled: true
 
 demo:
-  test-value: "Added dependency data:: Added refresfh scope"
+  test-value: Added dependency data Added refresfh scope
