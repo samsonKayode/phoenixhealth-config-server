@@ -12,4 +12,4 @@ spring:
             enabled: true
 
 demo:
-  test-value: updated data, still not working
+  test-value: updated data, still not working.. WTAF
